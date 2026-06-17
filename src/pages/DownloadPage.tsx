@@ -1,5 +1,5 @@
 export default function DownloadPage() {
-  const apkUrl = "https://salesteamtracker.vercel.app/download/android/salesteamtracker-v1.0.0.apk";
+  const apkUrl = "/downloads/salesteamtracker-v1.0.0.apk";
 
   return (
     <div className="min-h-screen bg-slate-50 px-4 py-12">
